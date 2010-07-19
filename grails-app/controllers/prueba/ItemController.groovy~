@@ -1,0 +1,6 @@
+package prueba
+
+class ItemController {
+
+    def index = { }
+}
